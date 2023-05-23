@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.22)  22 MAR 2023 12:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.22)  23 MAY 2023 13:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -488,7 +488,7 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 LaTeX Warning: Unused global option(s):
     [11p].
 
-No file main.aux.
+(C:/kod\PM\auxil\main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
@@ -557,125 +557,169 @@ Package biblatex Info: Automatic encoding selection.
 \openout3 = `main.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'main.bbl' not found.
+Package biblatex Info: ... file 'main.bbl' found.
+ (C:/kod\PM\auxil\main.bbl
+C:/kod\PM\auxil\main.bbl:77: Undefined control sequence.
+<write> ... {}:\item Entry 'Zaporizjzija' (C:\kod 
+                                                  \PM \src \mall .bib): Inva...
+l.77 ...ari 2022' of date field 'date' - ignoring}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-No file main.bbl.
+C:/kod\PM\auxil\main.bbl:77: Undefined control sequence.
+<write> ...\item Entry 'Zaporizjzija' (C:\kod \PM 
+                                                  \src \mall .bib): Invalid ...
+l.77 ...ari 2022' of date field 'date' - ignoring}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:/kod\PM\auxil\main.bbl:77: Undefined control sequence.
+<write> ... Entry 'Zaporizjzija' (C:\kod \PM \src 
+                                                  \mall .bib): Invalid forma...
+l.77 ...ari 2022' of date field 'date' - ignoring}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:/kod\PM\auxil\main.bbl:77: Undefined control sequence.
+<write> ... 'Zaporizjzija' (C:\kod \PM \src \mall 
+                                                  .bib): Invalid format '27 ...
+l.77 ...ari 2022' of date field 'date' - ignoring}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'Zaporizjzija':
+(biblatex)                - Entry 'Zaporizjzija' (C:.bib): Invalid format '27 f
+ebruari 2022' of date field 'date' - ignoring.
+
+C:/kod\PM\auxil\main.bbl:103: Undefined control sequence.
+<write> ...Entry 'naturskyddsfÃ¶reningen' (C:\kod 
+                                                  \PM \src \mall .bib): Inva...
+l.103 ...r, 2021' of date field 'date' - ignoring}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:/kod\PM\auxil\main.bbl:103: Undefined control sequence.
+<write> ...y 'naturskyddsfÃ¶reningen' (C:\kod \PM 
+                                                  \src \mall .bib): Invalid ...
+l.103 ...r, 2021' of date field 'date' - ignoring}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:/kod\PM\auxil\main.bbl:103: Undefined control sequence.
+<write> ...turskyddsfÃ¶reningen' (C:\kod \PM \src 
+                                                  \mall .bib): Invalid forma...
+l.103 ...r, 2021' of date field 'date' - ignoring}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:/kod\PM\auxil\main.bbl:103: Undefined control sequence.
+<write> ...ddsfÃ¶reningen' (C:\kod \PM \src \mall 
+                                                  .bib): Invalid format '12 ...
+l.103 ...r, 2021' of date field 'date' - ignoring}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'naturskyddsfÃ¶reningen':
+(biblatex)                - Entry 'naturskyddsfÃ¶reningen' (C:.bib): Invalid fo
+rmat '12 mar, 2021' of date field 'date' - ignoring.
+
+)
 Package biblatex Info: Reference section=0 on input line 21.
 Package biblatex Info: Reference segment=0 on input line 21.
-[1
+ [1
 
-{C:/Users/nova.lindberg2/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+{C:/Users/nova.lindberg2/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (C:
+/kod\PM\auxil\main.toc
+Overfull \hbox (41.9208pt too wide) in paragraph at lines 4--4
+ [] []\T1/cmr/bx/n/10 Hur på-ver-kar kärn-kraf-ten sam-häl-let (eko-no-mi/polit
+ik/Konflikter/m.m.) 
+ []
 
-LaTeX Warning: File `../images/NTI Gymnasiet_Symbol_print_svart.png' not found 
-on input line 61.
-
-
-main.tex:61: Package pdftex.def Error: File `../images/NTI Gymnasiet_Symbol_pri
-nt_svart.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.61 ...ages/NTI Gymnasiet_Symbol_print_svart.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 6
-1.
-
-(C:\Users\nova.lindberg2\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
-File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-) [1]
-No file main.toc.
+)
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
-[1]
+ [1]
+Overfull \hbox (0.18878pt too wide) in paragraph at lines 61--61
+[]\T1/cmr/bx/n/14.4 Vilken mil-jöpå-ver-kan har ett kärn-kraft-verk glo-
+ []
 
-LaTeX Warning: Citation 'Jens' on page 2 undefined on input line 102.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 6
+9.
 
+(C:\Users\nova.lindberg2\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+Overfull \hbox (5.9087pt too wide) in paragraph at lines 70--70
+[][]\T1/cmr/m/n/10 Digreús, An-ni-ka (u.å.). \T1/cmr/m/it/10 Eu-ro-pas störs-ta
+ kärn-kraft-verk kan va-ra ho-tat\T1/cmr/m/n/10 . \T1/cmr/m/sc/10 url\T1/cmr/m/
+n/10 : $\T1/cmtt/m/n/10 https :
+ []
 
-LaTeX Warning: Citation 'Fraenkel' on page 2 undefined on input line 102.
-
-
-LaTeX Warning: Citation 'fermi' on page 2 undefined on input line 102.
-
-[2]
-
-LaTeX Warning: Reference `grav' on page 3 undefined on input line 118.
-
-
-LaTeX Warning: Reference `varg' on page 3 undefined on input line 121.
-
-
-LaTeX Warning: File `../images/accelerationTime.png' not found on input line 12
-3.
-
-
-main.tex:123: Package pdftex.def Error: File `../images/accelerationTime.png' n
-ot found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.123 ...extwidth]{../images/accelerationTime.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: Empty bibliography on input line 127.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[3] [4] (C:/kod\PM\auxil\main.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
-
+[2] [3] (C:/kod\PM\auxil\main.aux)
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 11549 strings out of 475385
- 220220 string characters out of 2772659
- 972331 words of memory out of 3000000
- 32800 multiletter control sequences out of 15000+600000
- 478820 words of font info for 43 fonts, out of 8000000 for 9000
+ 11515 strings out of 475385
+ 218275 string characters out of 2772659
+ 973589 words of memory out of 3000000
+ 32781 multiletter control sequences out of 15000+600000
+ 477558 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,6n,68p,875b,1325s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 60i,5n,68p,679b,1622s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\nova.lindberg2\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dp
-i600\ecrm0700.pk> <C:\Users\nova.lindberg2\AppData\Local\MiKTeX\fonts/pk/ljfour
-/jknappen/ec/dpi600\ectt1000.pk> <C:\Users\nova.lindberg2\AppData\Local\MiKTeX\
-fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\nova.lindberg2\AppDat
-a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\nova.l
-indberg2\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <
+i600\ectt1000.pk> <C:\Users\nova.lindberg2\AppData\Local\MiKTeX\fonts/pk/ljfour
+/jknappen/ec/dpi600\eccc1000.pk> <C:\Users\nova.lindberg2\AppData\Local\MiKTeX\
+fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\nova.lindberg2\AppDat
+a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\nova.l
+indberg2\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <
 C:\Users\nova.lindberg2\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600
-\ecrm1440.pk> <C:\Users\nova.lindberg2\AppData\Local\MiKTeX\fonts/pk/ljfour/jkn
-appen/ec/dpi600\ectt1728.pk> <C:\Users\nova.lindberg2\AppData\Local\MiKTeX\font
+\ecbx1440.pk> <C:\Users\nova.lindberg2\AppData\Local\MiKTeX\fonts/pk/ljfour/jkn
+appen/ec/dpi600\ecrm1440.pk> <C:\Users\nova.lindberg2\AppData\Local\MiKTeX\font
 s/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\nova.lindberg2\AppData\Lo
 cal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk> <C:\Users\nova.lindb
-erg2\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\U
-sers\nova.lindberg2\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecr
-m1000.pk><C:/Users/nova.lindberg2/AppData/Local/Programs/MiKTeX/fonts/type1/pub
-lic/amsfonts/cm/cmmi10.pfb><C:/Users/nova.lindberg2/AppData/Local/Programs/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/nova.lindberg2/AppData/Lo
-cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-Output written on C:/kod\PM\out\main.pdf (6 pages, 131804 bytes).
+erg2\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk>
+Output written on C:/kod\PM\out\main.pdf (4 pages, 95963 bytes).
 PDF statistics:
- 347 PDF objects out of 1000 (max. 8388607)
+ 302 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
